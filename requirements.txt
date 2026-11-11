@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+xgboost==2.1.0
+shap==0.46.0
+torch==2.4.0
+streamlit==1.37.0
+matplotlib==3.9.1
